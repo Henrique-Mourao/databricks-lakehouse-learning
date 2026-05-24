@@ -2,7 +2,7 @@
 
 # Databricks Lakehouse Data Engineering Project
 
-Modern **Data Engineering project** built with **Databricks, Apache Spark and Delta Lake**, demonstrating a full **Lakehouse architecture** with ingestion, batch & streaming pipelines, governance and Medallion layers.
+Projeto moderno de **Engenharia de Dados** construído com **Databricks, Apache Spark e Delta Lake**, demonstrando uma **arquitetura Lakehouse** completa com pipelines de ingestão, processamento em lote e em fluxo contínuo, governança e camadas Medallion.
 
 <br>
 
